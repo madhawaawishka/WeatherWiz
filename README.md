@@ -1,4 +1,6 @@
-WeatherWiz
+<h1>WeatherWiz</h1>
+
+
 WeatherWiz is a weather application that allows users to search for weather details of any location worldwide. It utilizes the OpenWeatherMap API to fetch current weather information.
 
 Features
